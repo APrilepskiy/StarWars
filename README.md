@@ -1,6 +1,3 @@
-# StarWars
-StarWarsgame
-
 # ⭐ Star Wars Shooter — «Звёздные войны» на Java 🚀
 
 Космический аркадный шутер, написанный на **Java (Swing/AWT)** без сторонних библиотек.
